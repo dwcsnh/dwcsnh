@@ -57,25 +57,23 @@ I'm an Information Technology graduate from **VNU University of Engineering and 
   <img src="https://streak-stats.demolab.com?user=dwcsnh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dwcsnh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
-</p>
-
 ---
 
 ## 🌐 Let's connect
-<p>
-<a href="https://www.linkedin.com/in/ducanhdao/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-<a href="mailto:ducanhdao0411@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="30"/>
-</a>
-<a href="https://github.com/dwcsnh">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="30"/>
-</a>
-</p>
 
+<p>
+  <a href="https://www.linkedin.com/in/ducanhdao/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ducanhdao0411@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dwcsnh">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="30" />
+  </a>
+</p>
 ---
 
 <p align="center">
