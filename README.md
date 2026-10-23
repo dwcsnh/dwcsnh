@@ -65,15 +65,16 @@ I'm an Information Technology graduate from **VNU University of Engineering and 
   <a href="https://www.linkedin.com/in/ducanhdao/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ducanhdao0411@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="30" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/dwcsnh/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dwcsnh">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="30" />
   </a>
 </p>
+
 ---
 
 <p align="center">
