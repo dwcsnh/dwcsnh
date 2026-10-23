@@ -58,7 +58,7 @@ I'm an Information Technology graduate from **VNU University of Engineering and 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dwcsnh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dwcsnh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
 </p>
 
 ---
